@@ -3,7 +3,7 @@
 
 # Technical Constraints
 - Camera : Behind and on the side of the player (approx. -45 Y angle)
-- Controls : Hold to dive, release to fly up
+- Controls : Hold to dive, release to fly up => inversed in my implementation because it's more natural in my opinion
 - Character : Your speed increases during your dive. So you have to try to
 maximize your dives to overtake opponents. You can also pick up boosters.
 
